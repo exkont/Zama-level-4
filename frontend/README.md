@@ -1,3 +1,5 @@
+# Frontend is deployed on https://zama-level-4.vercel.app
+
 # Help Platform Frontend
 
 React application for interacting with the FHE-powered fundraising platform.

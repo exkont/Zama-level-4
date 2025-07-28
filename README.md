@@ -1,3 +1,5 @@
+# Frontend is deployed on https://zama-level-4.vercel.app
+
 # Help Platform - FHE-Powered Fundraising
 
 A decentralized fundraising platform built with **Fully Homomorphic Encryption (FHE)** technology from Zama. This
